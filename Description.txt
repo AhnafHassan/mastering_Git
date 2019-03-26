@@ -1,1 +1,3 @@
 I am trying to master Git. So, this is a test repository!
+
+Now, I am modifying this file to learn how to incorporate changes! Yay!
